@@ -1,13 +1,13 @@
 import React from 'react';
-import ReactDOM from 'react-dom';
 import Square from './Square';
 
 class Board extends React.Component {
+	
 	renderSquare(i) {
-		return <Square value={i}/>;
+		return <Square value={this.props.squares[i]} onClick={() => this.props.onClick(i)}  />;
 	}
+	
 	render() {
-		const status = 'Next player: X';
 		return (
 			<div>
 				<div className="status">{status}</div>
@@ -30,5 +30,7 @@ class Board extends React.Component {
 		);
 	}
 }
+
+
 
 export default Board;
