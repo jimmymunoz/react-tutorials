@@ -1,0 +1,611 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"js",
+				"json_encode"
+			],
+			[
+				"max",
+				"max_ending"
+			],
+			[
+				"prin",
+				"print_r"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 27.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 346.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Applications/XAMPP/xamppfiles/htdocs/react",
+		"/Applications/XAMPP/xamppfiles/htdocs/react/hello-world"
+	],
+	"file_history":
+	[
+		"/Applications/XAMPP/xamppfiles/htdocs/viajemosmagentonew/lib/Zend/Validate/Hostname.php",
+		"/Users/jimmymunoz/Downloads/servers-files/viajemos/robots.txt",
+		"/Users/jimmymunoz/Documents/jimmy/ip2_config.txt",
+		"/Applications/XAMPP/xamppfiles/htdocs/smsenvoi/librairie_smsenvoi/smsenvoi.config.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/smsenvoi/librairie_smsenvoi/exemple-appel.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/smsenvoi/librairie_smsenvoi/smsenvoi.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/smsenvoi/seniorasissms.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/smsenvoi/pages/sendsms_process.php",
+		"/Users/jimmymunoz/Documents/workspace-neon/ExtractionWorkFlow/ActivityModel.uml",
+		"/Users/jimmymunoz/Documents/workspace-neon/ExtractionWorkFlow/README.md",
+		"/Applications/XAMPP/xamppfiles/htdocs/symphony/blogsymphony/README.md",
+		"/Users/jimmymunoz/Documents/workspace-neon/ExtractionWorkFlow/model/ActivityModelResult.uml",
+		"/Users/jimmymunoz/Projects/SeniorAssistance/SeniorAssistance/SeniorAssistance.csproj",
+		"/Users/jimmymunoz/Downloads/c8b4e7f8c7e0041a.crt",
+		"/Users/jimmymunoz/Documents/workspace-neon/ExtractionWorkFlow/.project",
+		"/Users/jimmymunoz/Google Drive/MasterJimmy/Universite/M2-S1/HMIN301-Ingenierie-des-modeles/reusinage-moddeling/.classpath",
+		"/Users/jimmymunoz/Documents/workspace-neon/ExtractionWorkFlow/.classpath",
+		"/Users/jimmymunoz/Documents/jimmy/jimmy_mac.pass",
+		"/Users/jimmymunoz/Google Drive/MasterJimmy/Universite/M2-S1/HMIN301-Ingenierie-des-modeles/reusinage-moddeling/src/testSave.java",
+		"/Users/jimmymunoz/Documents/workspace-neon/ExtractionWorkFlow/.gitignore",
+		"/Users/jimmymunoz/Google Drive/MasterJimmy/Universite/M2-S1/HMIN301-Ingenierie-des-modeles/matamodel-rue/maps/src/test/test.java",
+		"/Applications/XAMPP/xamppfiles/htdocs/viajemosmagentonew/app/design/frontend/base/default/template/viajemos_general/home/quicksearch.phtml",
+		"/Users/jimmymunoz/Documents/workspace-neon/workFlowTest/src/workFlowTest/Main.java",
+		"/Users/jimmymunoz/Documents/jimmy/install_mysql.sql",
+		"/Applications/XAMPP/xamppfiles/htdocs/viajemosmagentonew/var/log/exception.log",
+		"/Users/jimmymunoz/Documents/workspace-neon/ExtractionWorkFlow/model/ActivityModelResult.xmi",
+		"/Users/jimmymunoz/Documents/workspace-neon/ExtractionWorkFlow/model/ActivityModelResult2.uml",
+		"/Users/jimmymunoz/Documents/jimmy/linux.jimmy",
+		"/Users/jimmymunoz/Downloads/sf_bundle-g2-g1.crt",
+		"/Users/jimmymunoz/Downloads/milescarrentalorlando.com/sf_bundle-g2-g1.crt",
+		"/Users/jimmymunoz/Downloads/milescarrentalorlando.com.key",
+		"/Users/jimmymunoz/Downloads/milescarrentalorlando.com/c8b4e7f8c7e0041a.crt",
+		"/Users/jimmymunoz/Documents/workspace-neon/ExtractionWorkFlow/model.uml",
+		"/Users/jimmymunoz/Downloads/PapyrusTransformation.java",
+		"/Users/jimmymunoz/Documents/workspace-neon/ExtractionWorkFlow/model/Main_main_String____void.uml",
+		"/Users/jimmymunoz/Google Drive/MasterJimmy/Universite/M2-S1/HMIN301-Ingenierie-des-modeles/matamodel-rue/maps/src/cartesMetamodel/CartesMetamodelFactory.java",
+		"/Users/jimmymunoz/Google Drive/MasterJimmy/Universite/M2-S1/HMIN301-Ingenierie-des-modeles/matamodel-rue/maps/src/cartesMetamodel/CartesMetamodelPackage.java",
+		"/Users/jimmymunoz/Documents/workspace-neon/exampleocl.graphe.emf/META-INF/MANIFEST.MF",
+		"/Applications/XAMPP/xamppfiles/htdocs/viajemosmagentonew/app/code/local/Viajemos/Hotel/Model/HotelSearchItem.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/viajemosmagentonew/app/code/local/Viajemos/Hotel/Model/HotelEngine.php",
+		"/Users/jimmymunoz/Downloads/test (1).java",
+		"/Users/jimmymunoz/Documents/workspace-neon/ActivityDiagramPapyrus/model2.uml",
+		"/Users/jimmymunoz/Documents/workspace-neon/ActivityDiagramPapyrus/model2.di",
+		"/Users/jimmymunoz/Documents/workspace-neon/ActivityDiagramPapyrus/model2.notation",
+		"/Users/jimmymunoz/Google Drive/MasterJimmy/Universite/M2-S1/HMIN301-Ingenierie-des-modeles/matamodel-rue/maps/src/cartesMetamodel/Road.java",
+		"/Users/jimmymunoz/Google Drive/MasterJimmy/Universite/M2-S1/HMIN301-Ingenierie-des-modeles/reusinage-moddeling/.project",
+		"/Users/jimmymunoz/Google Drive/MasterJimmy/Universite/M2-S1/HMIN306-Evolution-et-restructuration/Big Refactoring/TP-Refactoring-2-partie/extr_hierarchi/resultats/sequencesConc2016.rcft",
+		"/Users/jimmymunoz/Google Drive/MasterJimmy/Universite/M2-S1/HMIN306-Evolution-et-restructuration/Big Refactoring/TP-Refactoring-2-partie/extr_hierarchi/resultats/sequencesConc2016.csv",
+		"/Users/jimmymunoz/Google Drive/MasterJimmy/Universite/M2-S1/HMIN306-Evolution-et-restructuration/Introduction/srcTD1Exo1/.project",
+		"/Applications/XAMPP/xamppfiles/htdocs/symphony/blogsymphony/src/Jimmy/BlogBundle/Controller/CrudController.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/symphony/blogsymphony/src/Jimmy/BlogBundle/Resources/views/Crud/edit_post.html.twig",
+		"/Applications/XAMPP/xamppfiles/htdocs/symphony/blogsymphony/src/Jimmy/BlogBundle/Resources/views/Default/post.html.twig",
+		"/Applications/XAMPP/xamppfiles/htdocs/symphony/blogsymphony/src/Jimmy/BlogBundle/Resources/views/Default/index.html.twig",
+		"/Applications/XAMPP/xamppfiles/htdocs/symphony/blogsymphony/src/Jimmy/BlogBundle/Entity/User.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/symphony/blogsymphony/app/Resources/FOSUserBundle/views/layout.html.twig",
+		"/Applications/XAMPP/xamppfiles/htdocs/symphony/blogsymphony/app/AppKernel.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/symphony/blogsymphony/app/config/routing.yml",
+		"/Applications/XAMPP/xamppfiles/htdocs/symphony/blogsymphony/src/Jimmy/BlogBundle/Repository/ArticleRepository.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/symphony/blogsymphony/src/Jimmy/BlogBundle/Controller/DefaultController.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/symphony/blogsymphony/src/Jimmy/BlogBundle/Form/ArticleForm.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/symphony/blogsymphony/src/Jimmy/BlogBundle/Entity/Article.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/symphony/blogsymphony/app/Resources/views/base.html.twig",
+		"/Applications/XAMPP/xamppfiles/htdocs/symphony/blogsymphony/app/Resources/FOSUserBundle/views/Security/login_content.html.twig",
+		"/Applications/XAMPP/xamppfiles/htdocs/symphony/blogsymphony/src/Jimmy/BlogBundle/Resources/config/routing.yml",
+		"/Applications/XAMPP/xamppfiles/htdocs/symphony/blogsymphony/src/Jimmy/BlogBundle/Repository/UserRepository.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/symphony/blogsymphony/app/Resources/views/default/index.html.twig",
+		"/Users/jimmymunoz/Downloads/gro_blog 2/src/Grd/BlogBundle/Controller/BlogController.php",
+		"/Users/jimmymunoz/Downloads/gro_blog 2/src/Grd/BlogBundle/GrdBlogBundle.php",
+		"/Users/jimmymunoz/Downloads/gro_blog 2/src/Grd/BlogBundle/Resources/config/services.yml",
+		"/Users/jimmymunoz/Downloads/gro_blog 2/src/Grd/BlogBundle/Resources/views/Blog/index.html.twig",
+		"/Users/jimmymunoz/Downloads/gro_blog 2/src/Grd/BlogBundle/Resources/views/Blog/post.html.twig",
+		"/Users/jimmymunoz/Downloads/gro_blog 2/src/Grd/BlogBundle/Resources/views/base.html.twig",
+		"/Users/jimmymunoz/Downloads/TP3_solution/index.php",
+		"/Users/jimmymunoz/Downloads/TP3_solution/FactManagement.solution.php",
+		"/Users/jimmymunoz/Downloads/TP2_part1_solution/gro_blog/src/AppBundle/Controller/DefaultController.php",
+		"/Users/jimmymunoz/Downloads/TP2_part1_solution/gro_blog/app/Resources/views/base.html.twig",
+		"/Users/jimmymunoz/Downloads/TP2_part1_solution/gro_blog/app/Resources/views/default/index.html.twig",
+		"/Users/jimmymunoz/Downloads/TP2_part1_solution/gro_blog/app/config/routing.yml",
+		"/Users/jimmymunoz/Downloads/TP2_part1_solution/gro_blog/app/AppKernel.php",
+		"/Users/jimmymunoz/Downloads/TP2_part1_solution/gro_blog/app/config/config.yml",
+		"/Users/jimmymunoz/Downloads/TP3_solution/FactManagement.php",
+		"/Users/jimmymunoz/Downloads/TP3_solution/db_config.php",
+		"/Users/jimmymunoz/Downloads/TP2_solution 2/solution.php",
+		"/Users/jimmymunoz/Downloads/TP2_solution 2/index.php",
+		"/Users/jimmymunoz/Downloads/TP1_solution 3/index.html",
+		"/Users/jimmymunoz/Downloads/TP1_solution 3/chuck.html",
+		"/Users/jimmymunoz/Downloads/TP1_solution 3/js/main.js",
+		"/Users/jimmymunoz/Downloads/TP1_solution 3/js/plugins.js",
+		"/Users/jimmymunoz/Documents/workspace-neon/exampleocl.graphe.emf/model/Graphe.xmi",
+		"/Users/jimmymunoz/Documents/workspace-neon/exampleocl.graphe.emf/model/Graphe.ecore",
+		"/Users/jimmymunoz/Documents/workspace-neon/exampleocl.graphe.emf/model/Graphe.aird",
+		"/Users/jimmymunoz/Documents/workspace-neon/exampleocl.graphe.emf/model/My.aird",
+		"/Users/jimmymunoz/Google Drive/MasterJimmy/Universite/M2-S1/HMIN304-Composants-et-Reutilisation/ConverterRemoteClient/src/converter/Converter.java",
+		"/Users/jimmymunoz/Google Drive/MasterJimmy/Universite/M2-S1/HMIN304-Composants-et-Reutilisation/ConverterRemoteClient/src/client/Client.java",
+		"/Users/jimmymunoz/Google Drive/MasterJimmy/Universite/M2-S1/HMIN304-Composants-et-Reutilisation/ConverterRemoteClient/src/client/Converter.class",
+		"/Users/jimmymunoz/Google Drive/MasterJimmy/Universite/M2-S1/HMIN304-Composants-et-Reutilisation/ConverterRemoteClient/src/client/jndi.properties",
+		"/Users/jimmymunoz/Google Drive/MasterJimmy/Universite/M2-S1/HMIN304-Composants-et-Reutilisation/NetBeans/Compteur/src/compteur/JFrameCompteur.java",
+		"/Users/jimmymunoz/Google Drive/MasterJimmy/Universite/M2-S1/HMIN304-Composants-et-Reutilisation/NetBeans/Compteur/src/compteur/Compteur.java",
+		"/Applications/XAMPP/xamppfiles/htdocs/viajemosmagentonew/app/code/local/Viajemos/Order/Block/Pdf/Voucher.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/viajemosmagentonew/app/code/local/Viajemos/Order/controllers/Adminhtml/OrderController.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/viajemosmagentonew/app/code/core/Mage/Catalog/Model/Resource/Abstract.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/viajemosmagentonew/app/code/local/Viajemos/Order/Helper/Data.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/viajemosmagentonew/app/code/local/Viajemos/Order/Block/Resume/Payment.php",
+		"/Users/jimmymunoz/Documents/jimmy/sps_20161221.sql",
+		"/Applications/XAMPP/xamppfiles/htdocs/viajemosmagentonew/app/code/core/Mage/Adminhtml/Helper/Sales.php",
+		"/Users/jimmymunoz/Projects/testList/testList/HomeLayoutPage.xaml",
+		"/Users/jimmymunoz/Projects/SeniorAssistance/SeniorAssistance/Pages/ConfigContactsPage.xaml",
+		"/Users/jimmymunoz/Projects/SeniorAssistance/SeniorAssistance/Pages/ConfigContactsPage.xaml.cs",
+		"/Users/jimmymunoz/Projects/testList/testList/HomeLayoutPage.xaml.cs",
+		"/Users/jimmymunoz/Projects/testList/testList/App.xaml.cs",
+		"/Users/jimmymunoz/Projects/testList/testList/MedicamentsFormPage.xaml",
+		"/Users/jimmymunoz/Projects/testList/testList/MedicamentsFormPage.xaml.cs",
+		"/Users/jimmymunoz/Projects/testList/testList/MedicamentsPage.xaml",
+		"/Users/jimmymunoz/Projects/testList/testList/MedicamentsPage.xaml.cs",
+		"/Users/jimmymunoz/Projects/testList/testList/NavigationToolbar.xaml",
+		"/Users/jimmymunoz/Projects/testList/testList/NavigationToolbar.xaml.cs",
+		"/Users/jimmymunoz/dumps/views_sps_20161220.sql",
+		"/Applications/XAMPP/xamppfiles/htdocs/viajemosmagentonew/app/code/local/Mage/Connect/Packager.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/viajemosmagentonew/app/design/frontend/base/default/template/viajemos_car/availability/quicksearch.phtml",
+		"/Applications/XAMPP/xamppfiles/htdocs/viajemosmagentonew/js/viajemos/general/quicksearch.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/viajemosmagentonew/js/viajemos/general/adminhtml/viajemosjs_config.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/viajemosmagentonew/app/design/frontend/milescarrental/default/template/viajemos_general/home/quicksearch.phtml",
+		"/Applications/XAMPP/xamppfiles/htdocs/viajemosmagentonew/app/code/local/Viajemos/General/Block/Home/Quicksearch.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/viajemosmagentonew/lib/mpdf/mpdf.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/viajemosmagentonew/app/code/core/Mage/Core/Block/Template.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/viajemosmagentonew/skin/frontend/viajemos/default/js/layout-viajemos.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/viajemosmagentonew/app/design/frontend/viajemos/default/layout/page.xml",
+		"/Applications/XAMPP/xamppfiles/htdocs/viajemosmagentonew/app/code/local/Viajemos/General/etc/config.xml"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Applications/XAMPP/xamppfiles/htdocs/viajemosmagentonew/",
+			"/Applications/XAMPP/xamppfiles/htdocs/viajemosmagentonew/app/design/frontend/base/default/layout/"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"cambiaEstadoOrden",
+			"pEstado",
+			"cambiaEstadoOrden",
+			"statu",
+			"stat",
+			"save",
+			"attribute_set",
+			"name",
+			"cambiaEstadoOrden",
+			"iconv_set_encoding",
+			"set_e",
+			"Mage_Catalog_Model_Resource_Abstract->_canUpdateAttribute",
+			"getOrigData",
+			"_collectSaveData",
+			"save",
+			"ck($callback[0])->",
+			"ck($callback[0])->$callback[1]();",
+			"appprodu",
+			"apptestgeneral",
+			"test",
+			"appprodviau16",
+			"genti",
+			"locservice",
+			"tar.gz",
+			"appproduccionviajemos",
+			"validateDateTimeProductCarReservation",
+			"chmod",
+			"_canUpdateAttribute",
+			"entit",
+			"Mage_Eav_Model_Entity_Abstract",
+			"empt",
+			"emp",
+			"Mage_Catalog_Model_Product",
+			"ReCaptcha",
+			"\n",
+			"pagespeed.conf",
+			"jmunoz@viajemos.com",
+			"grep",
+			"a2disconf",
+			"autor",
+			"udo dpkg -l | gre",
+			"dpkg",
+			"purg",
+			"upgrade",
+			"upgr",
+			"desarroll",
+			"dpkg",
+			"dpkg\ndpkg",
+			"dpkg",
+			"purg",
+			"onfig",
+			"purg",
+			"git st",
+			"chmod",
+			"lbappproduccionviajemos",
+			"lbappproduccionviajemosç",
+			"lbappproduccionviajemos",
+			"lba",
+			".key",
+			"key",
+			"ssl",
+			"sudo",
+			"ssl",
+			"/etc/ssl/private/viajemos.com.bo.pem",
+			"general",
+			"appprodviau16",
+			"purg",
+			"oracle",
+			"jmunoz@milescarrental.com",
+			"oracle",
+			"mysql ",
+			"extras",
+			"apptestgenu16",
+			"apptestgenu16.eastus.cloudapp.azure.com",
+			"apptestgenu16.eastus.cloudapp.azur",
+			"apptestgenu16.eastus.cloudapp.azure.com",
+			"extrasproducciongeneral",
+			"scp",
+			"apache",
+			"dpkg",
+			"extras",
+			"extrasprodgeu16",
+			"appprodviau16",
+			"u16",
+			"lbappproduccion",
+			"lhost:3306 -i master1aigle root@46.101.40.23",
+			"master1aigle root@46.101.40.23",
+			"lhost:3306 -i master1aigle root@46.101.40.23",
+			"lbappproduccionviajemos",
+			"lbapp",
+			"apptestgenu16",
+			"purg",
+			"chmod",
+			"azure",
+			"marcari",
+			"40.71.36.91",
+			"root@46.101.40.23",
+			"capt",
+			"'",
+			"$_REQ",
+			"com",
+			"free ",
+			"46.101.40.23",
+			"sha",
+			"pcl",
+			"jdk",
+			"mmymunoz@bitbucke",
+			"getPhonesToShow",
+			"footer.phtml",
+			"getCarLandingPageInfoByLink",
+			"getFooterLinkSectionByPage",
+			"cach",
+			"getFooterPageSections",
+			"getFooterLinksPageRegister",
+			"content-floats content-footer",
+			"phones",
+			"cache",
+			"getCountryByIp",
+			"ip",
+			"up",
+			"getCache",
+			"getCacheKeyInfo",
+			"cache",
+			"helper",
+			"contactinformationfooter.phtml",
+			"float-right colFooter col-contact-footer",
+			"page/footer.phtml",
+			"getCurrentLanguage"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"SeniorAssistance"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "react.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"lib/zend/validate/hostname.php",
+				"lib/Zend/Validate/Hostname.php"
+			],
+			[
+				"app/code/local/viajemos/order/model/ordergoogle.php",
+				"app/code/local/Viajemos/Order/Model/OrderGoogle.php"
+			],
+			[
+				"app/code/core/mage/eav/model/entity/abstract.php",
+				"app/code/core/Mage/Eav/Model/Entity/Abstract.php"
+			],
+			[
+				"app/code/local/viajemos/order/helper/data.php",
+				"app/code/local/Viajemos/Order/Helper/Data.php"
+			],
+			[
+				"app/code/local/viajemos/order/helper/data",
+				"app/code/local/Viajemos/OrderStatus/Helper/Data.php"
+			],
+			[
+				"lib/varien/file/uploader.php",
+				"lib/Varien/File/Uploader.php"
+			],
+			[
+				"app/code/core/mage/core/model/layout.php",
+				"app/code/core/Mage/Core/Model/Layout.php"
+			],
+			[
+				"code/local/viajemos/order/helper/",
+				"app/code/local/Viajemos/Order/Helper/Data.php"
+			],
+			[
+				"lib/recaptcha/recaptchalib2.0.php",
+				"lib/reCaptcha/recaptchalib2.0.php"
+			],
+			[
+				"general/helper",
+				"app/code/local/Viajemos/General/Helper/Data.php"
+			],
+			[
+				"page/footer.phtml",
+				"app/design/frontend/milescarrental/default/template/page/html/footer.phtml"
+			],
+			[
+				"page/html/header.phtml",
+				"app/design/frontend/viajemos/default/template/page/html/header.phtml"
+			],
+			[
+				"app/design/frontend/base/default/template/viajemos_general/home/quicksearch.phtml",
+				"app/design/frontend/base/default/template/viajemos_general/home/quicksearch.phtml"
+			],
+			[
+				"app/code/local/viajemos/hotel/model/hotelengine.php",
+				"app/code/local/Viajemos/Hotel/Model/HotelEngine.php"
+			],
+			[
+				"app/code/local/viajemos/hotel/model/hotelsearchitem.php",
+				"app/code/local/Viajemos/Hotel/Model/HotelSearchItem.php"
+			],
+			[
+				"lib/mpdf/mpdf.php",
+				"lib/mpdf/mpdf.php"
+			],
+			[
+				"app/code/local/viajemos/order/block/pdf/voucher.php",
+				"app/code/local/Viajemos/Order/Block/Pdf/Voucher.php"
+			],
+			[
+				"app/code/core/mage/adminhtml/helper/sales.php",
+				"app/code/core/Mage/Adminhtml/Helper/Sales.php"
+			],
+			[
+				"app/code/local/viajemos/order/controllers/adminhtml/ordercontroller.php",
+				"app/code/local/Viajemos/Order/controllers/Adminhtml/OrderController.php"
+			],
+			[
+				"app/code/local/viajemos/order/block/resume/payment.php",
+				"app/code/local/Viajemos/Order/Block/Resume/Payment.php"
+			],
+			[
+				"app/code/core/mage/catalog/model/resource/abstract.php",
+				"app/code/core/Mage/Catalog/Model/Resource/Abstract.php"
+			],
+			[
+				"config.xml",
+				"app/code/local/Viajemos/Car/etc/config.xml"
+			],
+			[
+				"config.xm",
+				"app/code/local/Inchoo/PHP7/etc/config.xml"
+			],
+			[
+				"app/code/local/mage/connect/packager.php",
+				"app/code/local/Mage/Connect/Packager.php"
+			],
+			[
+				"app/code/local/viajemos/car/helper/data.php",
+				"app/code/local/Viajemos/Car/Helper/Data.php"
+			],
+			[
+				"js/varien/js.js",
+				"js/varien/js.js"
+			],
+			[
+				"app/code/local/viajemos/general/helper/data.php",
+				"app/code/local/Viajemos/General/Helper/Data.php"
+			],
+			[
+				"/model/resource/sessio",
+				"app/code/core/Mage/Core/Model/Resource/Session.php"
+			],
+			[
+				"resource/session.php",
+				"app/code/core/Mage/Core/Model/Resource/Session.php"
+			],
+			[
+				"app/code/core/mage/adminhtml/controllers/indexcontroller.php",
+				"app/code/core/Mage/Adminhtml/controllers/IndexController.php"
+			],
+			[
+				"app/code/core/mage/adminhtml/controllers/dashboardcontroller.php",
+				"app/code/core/Mage/Adminhtml/controllers/DashboardController.php"
+			],
+			[
+				"app/code/core/mage/adminhtml/block/dashboard/graph.php",
+				"app/code/core/Mage/Adminhtml/Block/Dashboard/Graph.php"
+			],
+			[
+				"downloader/lib/mage/http/client/curl.php",
+				"downloader/lib/Mage/HTTP/Client/Curl.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 163.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
