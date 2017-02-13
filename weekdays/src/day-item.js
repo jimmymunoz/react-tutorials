@@ -1,9 +1,11 @@
-//import some code we need
+//Import some code we need
+//var React = require('react-native');
 import React, { Component } from 'react';
 import {
   AppRegistry,
   StyleSheet,
-  Text
+  Text,
+  View
 } from 'react-native';
 
 //Create our component

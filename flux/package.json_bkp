@@ -1,0 +1,14 @@
+{
+  "name": "flux",
+  "dependencies": {
+    "babelify": "^7.3.0",
+    "browserify": "^14.0.0",
+    "jquery": "^3.1.1",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2",
+    "reflux": "^6.0.0"
+  },
+  "scripts": {
+    "build": "browserify app.js -t [ babelify --presets [ es2015 react ] ] -o build.js"
+  }
+}
